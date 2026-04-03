@@ -1,10 +1,10 @@
-# 🚁 HawkEye Drone – UAV for Advanced Landmine Detection
+#  HawkEye Drone – UAV for Advanced Landmine Detection
 
-## 📌 Overview
+##  Overview
 
 HawkEye Drone is an **AI-powered autonomous UAV system** designed to detect landmines safely and efficiently. It combines **thermal imaging, metal detection, and machine learning** to identify both metallic and non-metallic mines.
 
----
+
 
 ## ❗ Problem Statement
 
@@ -14,34 +14,34 @@ Landmines continue to pose a serious threat in post-conflict regions, causing th
 * Cannot detect **non-metallic mines effectively**
 * Thermal detection affected by **environmental conditions**
 
----
+
 
 ## 💡 Proposed Solution
 
 A **dual-detection UAV system** that integrates:
 
-* 🔍 Metal Detection (Hardware)
-* 🌡️ Thermal Imaging (Software)
-* 🧠 AI/ML for pattern recognition
-* 📍 GPS-based mapping
+*  Metal Detection (Hardware)
+*  Thermal Imaging (Software)
+*  AI/ML for pattern recognition
+*  GPS-based mapping
 
 👉 As shown in the system architecture, the drone uses Pixhawk for flight control and Raspberry Pi for onboard AI processing.
 
----
+
 
 ## ⚙️ Key Features
 
-* 🚁 Autonomous flight using Pixhawk
-* 🔥 Thermal image-based detection
-* 🧲 Metal sensor-based detection
-* 🧠 AI-powered classification
-* 📡 Real-time GPS tracking
-* 🚧 Obstacle avoidance
-* ⚡ Instant alerts
+*  Autonomous flight using Pixhawk
+*  Thermal image-based detection
+*  Metal sensor-based detection
+*  AI-powered classification
+*  Real-time GPS tracking
+*  Obstacle avoidance
+*  Instant alerts
 
----
 
-## 🏗️ System Architecture
+
+##  System Architecture
 
 The system consists of:
 
@@ -61,9 +61,8 @@ The system consists of:
 * MAVLink communication
 * Mission Planner (GCS)
 
----
 
-## 🔬 How It Works
+##  How It Works
 
 1. Drone follows autonomous flight path
 2. Metal sensor scans ground
@@ -74,7 +73,7 @@ The system consists of:
 
 ---
 
-## 📊 Results
+## Results
 
 * Detects both metallic & non-metallic mines
 * Reduces human risk
@@ -89,35 +88,24 @@ The system consists of:
 * AI improves detection accuracy
 * Works in harsh environments
 
----
+
 
 ## ⚠️ Limitations
 
-* Battery constraints
-* Environmental noise
+* There is an some Battery issues & Environmental constraints.
 * Initial setup cost
 
----
 
-## 🎯 Future Scope
+
+## Future Scope
 
 * GPR & LiDAR integration
 * Fully autonomous swarm drones
 * Cloud-based monitoring system
 * Deployment in real-world demining
 
----
 
-## 👨‍💻 Team
-
-**Agile Avengers – R.M.D Engineering College**
-
-* Krishna Vishwa
-* Jaibalaji S.T
-* (Add others)
-
----
 
 ## 📜 License
 
-This project is under development and may include patent-pending components.
+This project is under development.

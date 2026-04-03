@@ -1,0 +1,8 @@
+Install Dependencies:
+
+pip install numpy opencv-python adafruit-circuitpython-mlx90640
+
+Enable I2C:
+
+sudo raspi-config
+→ Interface Options → I2C → Enable
